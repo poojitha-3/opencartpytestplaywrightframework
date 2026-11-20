@@ -1,0 +1,12 @@
+pytest
+playwright
+allure-pytest
+pytest-xdist
+pytest-html
+pytest-rerunfailures
+openpyxl
+Faker
+python-slugify
+
+
+#pip install -r requirements.txt

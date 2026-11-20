@@ -1,0 +1,14 @@
+[
+  {
+    "testdata": "valid",
+    "email": "venkatapoojithamupparaju@gmail.com",
+    "password": "Pooji@123",
+    "expected": "success"
+  },
+  {
+    "testdata": "invalid",
+    "email": "abcxyz@xyz.com",
+    "password": "abcxyx",
+    "expected": "failure"
+  }
+]
